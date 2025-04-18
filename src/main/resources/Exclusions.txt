@@ -1,0 +1,9 @@
+HID-compliant mouse
+HID Keyboard Device
+USB Receiver
+HoloLens Sensors
+USB Audio
+CORSAIR iCUE COMMANDER CORE XT
+AURA LED Controller
+Razer Freyja
+CORSAIR iCUE Commander CORE
